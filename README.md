@@ -48,4 +48,4 @@ For now, all updates will be posted on this page and I will set up a Discord ser
 Not exactly. I still have a lot of ideas I want to explore and I will eventually write up a bunch of features that will definitely come, or that will come if players voice enough interest.
 
 ## What Will PetCafe Cost?
-I will aim for a full release price at below $20. That is: $20 will be my base price and I'll see how far I can push it below that. I want the game to be affordable and still cover development expenses, such as paying artists providing assets fairly. There will be no loot boxes, microtransactions, or similar mechanics.
+I will aim for a full release price at below $20. That is: $20 will be my base price and I'll see how far I can push it below that. I want the game to be affordable and still cover development expenses, such as fairly paying artists providing assets. There will be no loot boxes, microtransactions, or similar mechanics.
