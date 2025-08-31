@@ -7,7 +7,7 @@ Versions found on here are free and can be played without restrictions.
 - `x.y.z-beta…`: more stable versions.
 
 # FAQ
-## I Found a Problem With One of The Prelrease Versions
+## I Found a Problem With One of The Prerelease Versions
 Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
 
 ## When will PetCafe be fully released?
