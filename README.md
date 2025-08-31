@@ -59,14 +59,15 @@ You will be able to remap controls in the future, but for now, they are hard cod
 
 # ❓ FAQ
 ## I Found a Problem With One of The Prerelease Versions
-Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues/new/choose) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
+Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues/new/choose) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing.
+Or you can drop a message [on Discord](https://discord.gg/TNKhRJB87V).
 
 ## When will PetCafe be fully released?
 When it is done(™️). I am developing solo while working full time, and I only want to put up a full release when I feel like players receive an enjoyable experience.
 
 ## Is There a Steam Page Already?
 Not yet. Steam charges a one-time payment of $100 per game you create there, so I don't want to prematurely sink costs on that end. I will put one up once the game reaches beta status.
-For now, all updates will be posted on this page and I will set up a Discord server soonish.
+For now, all updates will be posted on this page and can be discussed on [our Discord server](https://discord.gg/TNKhRJB87V).
 
 ## Is There a Roadmap?
 Not exactly. I still have a lot of ideas I want to explore and I will eventually write up a bunch of features that will definitely come, or that will come if players voice enough interest.
