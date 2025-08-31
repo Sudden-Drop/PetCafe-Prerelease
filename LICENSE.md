@@ -1,0 +1,1 @@
+You may play this prerelease version for free. You may not redistribute, sell, decompile, or modify the game without permission. The final version of the game will be commercial.
