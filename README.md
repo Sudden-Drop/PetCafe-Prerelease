@@ -1,4 +1,4 @@
-# PetCafe Prereleases
+# 🐇🐈🐕 PetCafe Prereleases
 
 This repository contains public prerelase versions of PetCafe.
 Versions found on [here](https://github.com/Sudden-Drop/PetCafe-Prerelease/releases) are free and can be played without restrictions.
