@@ -15,7 +15,7 @@ You will be able to remap controls in the future, but for now, they are hard cod
 - <kbd>D</kbd> – move right
 - <kbd>space</kbd> – primary action
 - <kbd>left alt</kbd> – secondary action
-- <kbd>Q</kbd> – previous seconary action
+- <kbd>Q</kbd> – previous secondary action
 - <kbd>E</kbd> – next secondary action
 - <kbd>T</kbd> – open skill tree (only when in restaurant)
 - <kbd>enter</kbd> – open cheat menu (only when in overworld)
