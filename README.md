@@ -35,7 +35,7 @@ You will be able to remap controls in the future, but for now, they are hard cod
 
 # FAQ
 ## I Found a Problem With One of The Prerelease Versions
-Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
+Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues/new/choose) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
 
 ## When will PetCafe be fully released?
 When it is done(™️). I am developing solo while working full time, and I only want to put up a full release when I feel like players receive an enjoyable experience.
