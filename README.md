@@ -13,22 +13,25 @@ In PetCafe, you run your very own restaurants and cafés, with a delightful twis
 As a lot of features are unfinished and UX leaves a lot to be desired, a few explanations for playing early versions:
 
 ### Managing Furnishing
-You can only decorate your restaurants when you closed them manually on the overworld. Opening the context menu again after closing will show a button `Manage`. You then have to reopen the restaurant for customers to come in again
+You can only decorate your restaurants when you closed them manually on the overworld. Opening the context menu again after closing will show a button `Manage`, which will lead you to an edit mode for that restaurant. You then have to reopen the restaurant from the overworld for customers to come in again
 
 ### Employees
 Once you have hired an employee from the market, they are available when managing a restaurant. Clicking on them will grey out their portrait, implying that they will help there. Employees will prepare and bring dishes to tables.
 
 ### Repairing
 Using machines will cause wear and tear on them. This is implied by a speech bubble with a wrench and screwdriver.
-Machines that are at low health will take longer to produce dishes. You can repair them by switching to your repair action (<kbd>Q</kbd> and <kbd>E</kbd>) and hitting it with your wrench (<kbd>left alt</kbd>).
+Machines that are at low health will take longer to produce dishes. You can repair them by switching to your repair action (<kbd>Q</kbd>/<kbd>E</kbd>) and hitting it with your wrench (<kbd>left alt</kbd>).
 
 ### Cleaning
 Customers and employees moving through your restaurants will cause dirt on the floor.
-Dirt is currently only a visual mechanic. You can clean it by switching to your broom action (<kbd>Q</kbd> and <kbd>E</kbd>) and holding <kbd>left alt</kbd> while moving over dirt. You can also buy a vacuum robot to clean it for you.
+Dirt is currently only a visual mechanic. You can clean it by switching to your broom action (<kbd>Q</kbd>/<kbd>E</kbd>) and holding <kbd>left alt</kbd> while moving over dirt. You can also buy a vacuum robot to clean it for you.
 Customers and employees will drag in more dirt during bad weather.
 
 ### Reputation
 Fulfilling customer orders will leave the customer satisfied and increase your reputation. If you let your customers wait too long, their patience runs out and your reputation will decrease. This currently has no bearing.
+
+### Skills
+Skills are only partially implemented. You can access the skill tree by pressing <kbd>T</kbd> inside one of your restaurants and unlock skills for free.
 
 # 🎮 Controls
 You will be able to remap controls in the future, but for now, they are hard coded:
@@ -72,5 +75,5 @@ For now, all updates will be posted on this page and can be discussed on [our Di
 ## Is There a Roadmap?
 Not exactly. I still have a lot of ideas I want to explore and I will eventually write up a bunch of features that will definitely come, or that will come if players voice enough interest.
 
-## What Will PetCafe Cost?
+## How Much Will PetCafe Cost?
 I will aim for a full release price at below $20. That is: $20 will be my base price and I'll see how far I can push it below that. I want the game to be affordable and still cover development expenses, such as fairly paying artists providing assets. There will be no loot boxes, microtransactions, or similar mechanics.
