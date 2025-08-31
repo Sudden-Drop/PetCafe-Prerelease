@@ -6,6 +6,17 @@ Versions found on [here](https://github.com/Sudden-Drop/PetCafe-Prerelease/relea
 - `x.y.z-alpha…`: very early versions that still contain a lot of bugs, features are missing, and assets are largely placeholders.
 - `x.y.z-beta…`: more stable versions.
 
+# Controls
+<kbd>W</kbd> – move up
+<kbd>A</kbd> – move left
+<kbd>S</kbd> – move down
+<kbd>D</kbd> – move right
+<kbd>space</kbd> – primary action
+<kbd>left alt</kbd> – secondary action
+<kbd>Q</kbd> – previous seconary action
+<kbd>E</kbd> – next secondary action
+<kbd>T</kbd> – open skill tree
+
 # FAQ
 ## I Found a Problem With One of The Prerelease Versions
 Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
