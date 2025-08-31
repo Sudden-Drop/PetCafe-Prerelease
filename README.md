@@ -6,6 +6,9 @@ Versions found on [here](https://github.com/Sudden-Drop/PetCafe-Prerelease/relea
 - `x.y.z-alpha…`: very early versions that still contain a lot of bugs, features are missing, and assets are largely placeholders.
 - `x.y.z-beta…`: more stable versions.
 
+# ℹ️ About
+In PetCafe, you run your very own restaurants and cafés, with a delightful twist: everyone is an animal! From your character to your employees and customers, all are adorable animal characters. Prepare delicious dishes, serve them to your patrons, expand your estate to open new locations, upgrade your appliances, discover exciting new recipes, keep your shops spotless, and build a thriving culinary empire.
+
 # 🎮 Controls
 You will be able to remap controls in the future, but for now, they are hard coded:
 
