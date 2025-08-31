@@ -6,7 +6,7 @@ Versions found on [here](https://github.com/Sudden-Drop/PetCafe-Prerelease/relea
 - `x.y.z-alpha…`: very early versions that still contain a lot of bugs, features are missing, and assets are largely placeholders.
 - `x.y.z-beta…`: more stable versions.
 
-# Controls
+# 🎮 Controls
 You will be able to remap controls in the future, but for now, they are hard coded:
 
 - <kbd>W</kbd> – move up
@@ -20,7 +20,7 @@ You will be able to remap controls in the future, but for now, they are hard cod
 - <kbd>T</kbd> – open skill tree (only when in restaurant)
 - <kbd>enter</kbd> – open cheat menu (only when in overworld)
 
-# Cheats
+# 🛠️ Cheats
 - `robin hood`: gives you 1000 gold pieces
 - `<3me` gives you 1000 reputation points
 - `ikea`: unlocks all furnishing
@@ -33,7 +33,7 @@ You will be able to remap controls in the future, but for now, they are hard cod
 - `thumper`: adds a bunny employee to your roster
 
 
-# FAQ
+# ❓ FAQ
 ## I Found a Problem With One of The Prerelease Versions
 Please open [a bug report](https://github.com/Sudden-Drop/PetCafe-Prerelease/issues/new/choose) and let me know! Make sure to include which version of PetCafe you were using (you can see a build version in the bottm left side of the title screen) and on what OS you were playing. 
 
