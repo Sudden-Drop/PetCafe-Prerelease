@@ -8,15 +8,16 @@ Versions found on [here](https://github.com/Sudden-Drop/PetCafe-Prerelease/relea
 
 # Controls
 You will be able to remap controls in the future, but for now, they are hard coded:
-<kbd>W</kbd> – move up
-<kbd>A</kbd> – move left
-<kbd>S</kbd> – move down
-<kbd>D</kbd> – move right
-<kbd>space</kbd> – primary action
-<kbd>left alt</kbd> – secondary action
-<kbd>Q</kbd> – previous seconary action
-<kbd>E</kbd> – next secondary action
-<kbd>T</kbd> – open skill tree
+
+- <kbd>W</kbd> – move up
+- <kbd>A</kbd> – move left
+- <kbd>S</kbd> – move down
+- <kbd>D</kbd> – move right
+- <kbd>space</kbd> – primary action
+- <kbd>left alt</kbd> – secondary action
+- <kbd>Q</kbd> – previous seconary action
+- <kbd>E</kbd> – next secondary action
+- <kbd>T</kbd> – open skill tree
 
 # FAQ
 ## I Found a Problem With One of The Prerelease Versions
