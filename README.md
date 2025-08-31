@@ -17,7 +17,21 @@ You will be able to remap controls in the future, but for now, they are hard cod
 - <kbd>left alt</kbd> – secondary action
 - <kbd>Q</kbd> – previous seconary action
 - <kbd>E</kbd> – next secondary action
-- <kbd>T</kbd> – open skill tree
+- <kbd>T</kbd> – open skill tree (only when in restaurant)
+- <kbd>enter</kbd> – open cheat menu (only when in overworld)
+
+# Cheats
+- `robin hood`: gives you 1000 gold pieces
+- `<3me` gives you 1000 reputation points
+- `ikea`: unlocks all furnishing
+- `letitsnow`: snow starts to fall
+- `vitamin d`: sun starts to shine
+- `pour decision`: rain starts to fall
+- `hi noon`: sets time to 12:00
+- `bye noon`: sets time to 00:00
+- `gimme`: adds 10 coffee beans and 10 apples to your commodity inventory
+- `thumper`: adds a bunny employee to your roster
+
 
 # FAQ
 ## I Found a Problem With One of The Prerelease Versions
