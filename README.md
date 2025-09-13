@@ -28,13 +28,13 @@ Dirt is currently only a visual mechanic. You can clean it by switching to your 
 Customers and employees will drag in more dirt during bad weather.
 
 ### Reputation
-Fulfilling customer orders will leave the customer satisfied and increase your reputation. If you let your customers wait too long, their patience runs out and your reputation will decrease. This currently has no bearing.
+Fulfilling customer orders will leave the customer satisfied and increase your reputation. If you let your customers wait too long, their patience runs out and your reputation will decrease. Every 10 reputation you get one skill point to use on your skill tree. You will not lose skill points if your reputation drops again. But you will not get additional points for reputation levels you have reached before. 
 
 ### Skills
 Skills are only partially implemented. You can access the skill tree by pressing <kbd>T</kbd> inside one of your restaurants and unlock skills for free.
 
 # 🎮 Controls
-You will be able to remap controls in the future, but for now, they are hard coded:
+Controls can be remapped in the settings (<kbd>esc</kbd>). The defaults are:
 
 - <kbd>W</kbd> – move up
 - <kbd>A</kbd> – move left
