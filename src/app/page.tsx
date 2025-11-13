@@ -58,7 +58,7 @@ export default function PetCafePrereleasePage() {
           <div className="faq-content text-gray-600 space-y-2">
             <p>You can download early versions of PetCafe from <a href="https://github.com/Sudden-Drop/PetCafe-Prerelease/releases" className="page-link">GitHub</a>. Versions you download there are free of charge and yours to keep.</p>
             <h3 className="section-subtitle">Not sure which to pick?</h3>
-            <p>In general, just take the latest release from the page linked above. Each has an <strong>Assets</strong> section with binaries for various operating systems. For example, when you are using Windows and you want to play version 0.0.1-alpha5, go to the <strong>Assets</strong> section of <strong>Release 0.0.1-alpha5</strong> and download <strong>0.0.1-alpha5-windows.zip</strong>, unpack it and run the `.exe` inside it.</p>
+            <p>In general, just take the latest release from the page linked above. Each has an <strong>Assets</strong> section with binaries for various operating systems. For example, when you are using Windows and you want to play version 0.0.1-alpha5, go to the <strong>Assets</strong> section of <strong>Release 0.0.1-alpha5</strong> and download <strong>0.0.1-alpha5-windows.zip</strong>, unpack it and run the <strong>.exe</strong> inside it.</p>
             <h3 className="section-subtitle">Version Types</h3>
             <ul className="list-disc ml-6 space-y-1 text-gray-600">
               <li><code>x.y.z-alpha…</code> — very early versions with bugs, missing features, and placeholder assets. Do not expect this to feel like a polished game!</li>
